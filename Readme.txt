@@ -1,0 +1,1 @@
+Este programa resuelve un problema de ecuacion diofántica llamada "Mono y Cocos". Este programa esta programado en Python. el problema que presenta implica encontra un numero X de cocos que cumpla con una serie de condiciones despues de que varias personas y un mono tomen su parte 
